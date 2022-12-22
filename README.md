@@ -1,6 +1,6 @@
 ### Hi there, I'm Raimundo Vasquez 👋 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/raimundo_vu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/raimundo_vu)
+[![Twitter Follow](https://img.shields.io/twitter/follow/raimundo_vu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/raimundovu)
 
 ## I'm a Developer from Chile  🇨🇱 !!
 
