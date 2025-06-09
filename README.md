@@ -2,10 +2,8 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/raimundo_vu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/raimundovu)
 
-## I'm a Developer from Chile  🇨🇱 !!
+## I'm a Developer 🇨🇱 !!
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Be more productive and to learn more code! 
 
 ### Connect with me:
 
